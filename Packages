@@ -1,0 +1,27 @@
+Package: com.yourepo.supportjailbreak.translationvitho
+Name: Translation Việt Hoá
+Version: 1.4.9
+Architecture: iphoneos-arm
+Description: Translatin Việt Hoá
+Author: Sky - Pain <2398453359@qq.com>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), preferenceloader, com.spark.libsparkcolourpicker, ws.hbang.common (>= 1.11)
+Icon: file:///Library/PreferenceBundles/TranslationPrefs.bundle/icon/icon@2x.png
+Maintainer: BVN <nhatbien97@gmail.com>
+Author: Hius <h.h.haiduog@gmail.com>
+Maintainer: Supportjb <bvnsupport-jailbreakios.github.io>
+Name: HalFiPad Việt Hoá
+Package: com.supportjailbreak.halfipad
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11
+Section: Tweaks
+Installed-Size: 521
+Version: 9.9.9.9
+Architecture: iphoneos-arm
+Description: Các cử chỉ hiện đại, tính năng của iPad và nhiều tính năng độc đáo nhưng nhẹ và ít hao pin hơn.
+Depiction: http://bvnsupport-jailbreakios.github.io/moreinfo/depiction.php?file=halfipadDp
+Homepage:bvnsupport-jailbreakios.github.io/moreinfo/depiction.php?file=halfipadDp
+Sponsor: Supportjailbreak.yourepo <http://bvnsupport-jailbreakios.github.io>
+dev: hius
+Tag: purpose::extension, compatible::ios13
+Icon: file:///Library/PreferenceBundles/HalFiPadPrefs.bundle/icon@2x.png
